@@ -1,0 +1,15 @@
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/bin/Debug/net6.0/Task2
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/bin/Debug/net6.0/Task2.deps.json
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/bin/Debug/net6.0/Task2.dll
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/bin/Debug/net6.0/Task2.pdb
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/obj/Debug/net6.0/Task2.dll
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/obj/Debug/net6.0/refint/Task2.dll
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/obj/Debug/net6.0/Task2.pdb
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
+/Users/dmitrykizimov/Desktop/GB/Lessons/Part_02_C/C_Begin/HomeWork_01_30_November/Task/Task2/obj/Debug/net6.0/ref/Task2.dll
